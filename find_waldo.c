@@ -1,11 +1,8 @@
 /**************************************************************************
-Student name: Younes Boutaleb
-Student number: 041019068
 Assignment number (and name if any): Lab 03: Find Waldo Game 
                                                       
 Course name and number: CST8234 C Language
 Lab section number: 013
-Professor’s name: Natalie Gluzman
 Due date of assignment: June 18, 2021
 Submission date of assignment: June 15, 2021
 List of source and header files in the project: find_waldo.c , find_waldo.h
