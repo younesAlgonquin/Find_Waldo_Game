@@ -9,7 +9,6 @@
  **
  ** @version 1.0
  **
- ** @author Gerald.Hurdle@AlgonquinCollege.com
  **/
 
 /* If #define DEBUG, then put Waldo at world[#DEBUG_ROW][#DEBUG_COL] */
